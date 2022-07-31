@@ -20,4 +20,4 @@ You should run sender and spark_receiver first. Once they get images and start p
 ![Iterative Pruning Result](./images/animals.png)
 
 ## Implement details
-Please check all implement details and analysis is [our report](https://github.com/cjdsj/Real-time-images-detection-and-hashtags-generation-for-tweets/blob/main/Project%20Report.pdf)
+Please check all implement details and analysis is [our report](https://github.com/LegenQS/Real-time-Hashtag-generation-for-tweets/blob/main/Project%20Report.pdf)
